@@ -1,0 +1,62 @@
+/*
+	Kyle Cole
+	ITS362 Final Project
+	Terebigemu.net/terebigemu.css
+*/
+
+body 
+{
+	font-family:Comic Sans MS; 
+	background-color:black;
+}
+
+a 
+{
+	text-decoration:none; color:#66ffff;
+}
+
+a:link 
+{
+  text-decoration: none;
+}
+
+a:visited
+{
+  text-decoration: underline;
+  color: gold;
+}
+
+a:hover
+{
+  text-decoration: underline;
+  color: #66ffff;
+}
+
+a:active 
+{
+  text-decoration: underline;
+}
+
+#article 
+{
+	background-color:#00002e;
+	color:white; 
+	width: 600px; 
+	padding: 10px; 
+	border: 5px solid gray; 
+	margin: 0;
+}
+
+
+table, th, td 
+{
+  border: 1px solid white;
+  padding: 8px;
+  color:  white;
+}
+
+th 
+{
+	background-color: #00002e;
+	color: white;
+}
